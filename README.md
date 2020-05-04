@@ -1,2 +1,3 @@
 ＃3D-智慧社区服务系统
-包括系统界面css + html + Javascript及部分核心功能ArcGIS API for JavaScript调用代码
+
+为了使购房者能够更方便，高效地了解各个房源信息，开发了基于Nodejs平台的智慧社区服务系统。采用CityEngine作为主要的建模工具并将三维模型发布至Web端，前端采用AngularJS框架进行界面和用户交互设计，基于Dojo框架调用ArcGIS Server的API接口实现相关功能模块。后端基于Nodejs的Express框架，MySQL和SQL Server作为数据库支撑。系统实现了场景查看、视频监控、信息检索、路径规划、采光分析等12个功能，同时系统具有较高的并发性能，可为用户提供快速响应的交互式购房场景平台。
